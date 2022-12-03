@@ -9,7 +9,7 @@ This is a real estate listings resource website created for PadFinder. PadFinder
 
 **Tech used:** HTML, CSS, JavaScript, React
 
-This was a project I took on as one of my first React applications. It is a front-end design of a real estate agency firm's website. The site was built using HTML & CSS implimented in the form of use the React library. Each section of the page is built using the components framwork and incorporating HTML into JSX. I imported each component as well as all the assets into the proper directories. I also imported and used React-Icons in the UI. Using NodeJS I installed the proper packages for react-icons as well as react itself. Once the project was completed I once again used Node to run my script and build my application for deployment.
+This was a project I took on as one of my first React applications. It is a front-end design of a real estate agency firm's website. The site was built using HTML & CSS implimented in the form of using the React library. Each section of the page is built using the components framwork and incorporating HTML into JSX. I imported each component as well as all the assets into the proper directories. I also imported and used React-Icons in the UI. Using NodeJS I installed the proper packages for react-icons as well as react itself. Once the project was completed I once again used Node to run my script and build my application for deployment.
 
 ## Lessons Learned:
 
