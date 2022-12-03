@@ -3,7 +3,7 @@ This is a real estate listings resource website created for PadFinder. PadFinder
 
 **Link to project:** https://calm-smakager-cf0580.netlify.app/
 
-![alt tag](https://i.ibb.co/phfh9CB/padfinder.png)
+![alt tag]([https://i.ibb.co/phfh9CB/padfinder.png](https://ibb.co/Rj3jVLk))
 
 ## How It's Made:
 
