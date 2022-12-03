@@ -13,4 +13,4 @@ This was a project I took on as one of my first React applications. It is a fron
 
 ## Lessons Learned:
 
-React is quickly becoming one of my favorite wasy to design and build web applications. I am thoroughly enjoying breaking down every part of an application into components and the train of thought which comes along with it. This project is one that helped me familiarize myself with organizing and importing different pieces of the site as components. This has allowed me to think through how to stack each building block to complete the application.
+React is quickly becoming one of my favorite ways to design and build web applications. I am thoroughly enjoying breaking down every part of an application into components and the train of thought which comes along with it. This project is one that helped me familiarize myself with organizing and importing different pieces of the site as components. This has allowed me to think through how to stack each building block to complete the application.
