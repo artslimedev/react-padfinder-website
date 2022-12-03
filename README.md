@@ -1,7 +1,7 @@
 # PadFinder React Site
 This is a real estate listings resource website created for PadFinder. PadFinder is an ecommerce business that aids agents as well as clients locate, buy, and sell homes.
 
-**Link to project:** https://calm-smakager-cf0580.netlify.app/
+**Link to project:** https://padfindermarketplace.netlify.app/
 
 ![alt tag](https://i.ibb.co/phfh9CB/padfinder.png)
 
