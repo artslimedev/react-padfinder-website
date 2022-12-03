@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b77e9ba.css",
+    "main.js": "/static/js/main.271997ab.js",
+    "static/media/home3.jpg": "/static/media/home3.8c1d3d228d6677fabf02.jpg",
+    "static/media/home2.jpg": "/static/media/home2.ddac7cd7b193fded0319.jpg",
+    "static/media/home1.jpg": "/static/media/home1.39650e4a47e80647189c.jpg",
+    "static/media/mansion1.jpg": "/static/media/mansion1.5d1eca9c8b672df368bd.jpg",
+    "static/media/mansion2.jpg": "/static/media/mansion2.cc06a2daa01913ee5c1b.jpg",
+    "static/media/hero234.jpg": "/static/media/hero234.b79851f446d7ea437b98.jpg",
+    "static/media/bath2.jpg": "/static/media/bath2.3069680cd2fc8aff2dc5.jpg",
+    "static/media/bed4.jpg": "/static/media/bed4.d325256855b00355ee2d.jpg",
+    "static/media/bed3.jpg": "/static/media/bed3.6112743e2729e154db10.jpg",
+    "static/media/living-room.jpg": "/static/media/living-room.255d422b4a56fcd9bcf2.jpg",
+    "static/media/bed1.jpg": "/static/media/bed1.9e246f4340fc4d07e524.jpg",
+    "static/media/kitchen.jpg": "/static/media/kitchen.30699db8cf0053cf39e2.jpg",
+    "static/media/bed2.jpg": "/static/media/bed2.e6ba16d52f843b577b4e.jpg",
+    "static/media/bath1.jpg": "/static/media/bath1.a48b0894e5a75dbc5005.jpg",
+    "index.html": "/index.html",
+    "main.0b77e9ba.css.map": "/static/css/main.0b77e9ba.css.map",
+    "main.271997ab.js.map": "/static/js/main.271997ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b77e9ba.css",
+    "static/js/main.271997ab.js"
+  ]
+}
