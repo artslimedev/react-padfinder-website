@@ -1,70 +1,16 @@
-# Getting Started with Create React App
+# PadFinder React Site
+This is a real estate listings resource website created for PadFinder. PadFinder is an ecommerce business that aids agents as well as clients locate, buy, and sell homes.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Link to project:** https://calm-smakager-cf0580.netlify.app/
 
-## Available Scripts
+![alt tag](https://i.ibb.co/phfh9CB/padfinder.png)
 
-In the project directory, you can run:
+## How It's Made:
 
-### `npm start`
+**Tech used:** HTML, CSS, JavaScript, React
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This was a project I took on as one of my first React applications. It is a front-end design of a real estate agency firm's website. The site was built using HTML & CSS implimented in the form of use the React library. Each section of the page is built using the components framwork and incorporating HTML into JSX. I imported each component as well as all the assets into the proper directories. I also imported and used React-Icons in the UI. Using NodeJS I installed the proper packages for react-icons as well as react itself. Once the project was completed I once again used Node to run my script and build my application for deployment.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Lessons Learned:
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+React is quickly becoming one of my favorite wasy to design and build web applications. I am thoroughly enjoying breaking down every part of an application into components and the train of thought which comes along with it. This project is one that helped me familiarize myself with organizing and importing different pieces of the site as components. This has allowed me to think through how to stack each building block to complete the application.
